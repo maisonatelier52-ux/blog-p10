@@ -157,7 +157,7 @@ body {
 /* Full Width Hero Smoky Section: THE BLOG */
 .showit-hero {
   width: 100%;
-  background: radial-gradient(ellipse at 50% 45%, rgba(68, 68, 68, 0.75) 0%, rgba(18, 18, 18, 0.98) 75%), #121212;
+  background: radial-gradient(ellipse at 50% 45%, rgba(47, 46, 46, 0.75) 0%, rgba(18, 18, 18, 0.98) 75%), #121212;
   color: #ffffff;
   text-align: center;
   padding: 7.5rem 5% 7rem;
