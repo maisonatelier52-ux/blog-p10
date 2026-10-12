@@ -153,7 +153,7 @@ export default function Home() {
       <header className="showit-header">
         <div className="showit-header-inner">
           <div className="showit-brand">
-            <a href="#">JULIO HERRERA VELUTINI</a>
+            <a href="#">JHV</a>
           </div>
 
           <nav className="showit-nav">
