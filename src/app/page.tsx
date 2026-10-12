@@ -153,7 +153,7 @@ export default function Home() {
       <header className="showit-header">
         <div className="showit-header-inner">
           <div className="showit-brand">
-            <a href="#">JHV</a>
+            <a href="#">THE BLOG</a>
           </div>
 
           <nav className="showit-nav">
